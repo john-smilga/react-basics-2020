@@ -32,3 +32,7 @@ body {
 .book h1 {
   margin-top: 0.5rem;
 }
+.book h4 {
+  color: red;
+  letter-spacing: 5px;
+}
